@@ -56,6 +56,7 @@ const Footer = () => {
             title={footerLinks[3].title}
             links={footerLinks[3].links}
           />
+
           <div className="flex-1 flex flex-col gap-4">
             <FooterColumn
               title={footerLinks[4].title}
